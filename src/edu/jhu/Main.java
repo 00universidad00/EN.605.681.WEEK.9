@@ -1,0 +1,10 @@
+package edu.jhu;
+
+import edu.jhu.network.Server;
+
+public class Main {
+
+    public static void main(String[] args) {
+	    new Server().start();
+    }
+}
